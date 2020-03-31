@@ -11,3 +11,9 @@ If you use our work, please cite our paper [**My Approach = Your Apparatus? Entr
     title = {My Approach = Your Apparatus? Entropy-Based Topic Modeling on Multiple Domain-Specific Text Collections},
     year = {2018}
     }
+
+## Implementation
+* `TopicModelCcLDA.java` implements entity-based cross-collection latent Dirichlet allocation
+* `RunTopicModel.java` starts the training of the topic model and the following evalution
+* `CorpusBlogPostsFromFile.java` loads a corpus from a file.
+* `CorpusToy.java` loads a small example corpus of a few documents defined in the code.
