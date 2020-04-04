@@ -2,7 +2,7 @@
 
 ## Citation
 
-If you use our work, please cite our paper [**My Approach = Your Apparatus? Entropy-Based Topic Modeling on Multiple Domain-Specific Text Collections**](https://github.com/julian-risch/JCDL2018/raw/master/risch2018approach.pdf) as follows:
+If you use our work, please cite our paper [**My Approach = Your Apparatus? Entropy-Based Topic Modeling on Multiple Domain-Specific Text Collections**](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/people/risch/risch2018entropy.pdf) as follows:
 
     @inproceedings{risch2018approach,
     author = {Risch, Julian and Krestel, Ralf},
@@ -11,7 +11,7 @@ If you use our work, please cite our paper [**My Approach = Your Apparatus? Entr
     title = {My Approach = Your Apparatus? Entropy-Based Topic Modeling on Multiple Domain-Specific Text Collections},
     year = {2018}
     }
-Please also note our earlier short paper [**What Should I Cite? Cross-Collection Reference Recommendation of Patents and Papers**](https://github.com/julian-risch/JCDL2018/raw/master/risch2017what.pdf) on a related topic published at the International Conference on Theory and Practice of Digital Libraries (TDPL).
+Please also note our earlier short paper [**What Should I Cite? Cross-Collection Reference Recommendation of Patents and Papers**](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/people/risch/risch2017what.pdf) on a related topic published at the International Conference on Theory and Practice of Digital Libraries (TDPL).
 
 ## Implementation
 * `TopicModelCcLDA.java` implements entity-based cross-collection latent Dirichlet allocation
